@@ -1,0 +1,7 @@
+{
+  "name": "done-api-js",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Tommy Palmer <hi@tommyp.org>",
+  "license": "MIT"
+}
